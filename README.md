@@ -1,17 +1,17 @@
-# 📝 Blog Management REST API (Spring Boot)
+#  Blog Management REST API (Spring Boot)
 
 A comprehensive **Blog Management RESTful API** built using **Spring Boot 3.x**.  
 This project demonstrates core backend development concepts such as RESTful design, layered architecture, validation, exception handling, pagination, and database integration using JPA & Hibernate.
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To build a production-ready REST API for managing blog posts, categories, and comments using **Spring Boot**, following industry best practices.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - RESTful APIs for blog posts
 - CRUD operations with proper HTTP status codes
@@ -26,7 +26,7 @@ To build a production-ready REST API for managing blog posts, categories, and co
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Java**: 17+
 - **Spring Boot**: 3.x
@@ -39,6 +39,4 @@ To build a production-ready REST API for managing blog posts, categories, and co
 - **Lombok**
 
 ---
-
-## 📂 Project Structure
 
